@@ -1,3 +1,12 @@
+
+import '../implements/implements.dart';
+
+void main(List<String> args) {
+  // مينفعش اخد اوبجيكت من ابستراكت كلاس
+ // Animal animal = Animal()
+ // animal.eat();
+}
+
 abstract class Animal {
   int? numberOfLimbs = 4;
   Animal(this.numberOfLimbs);
