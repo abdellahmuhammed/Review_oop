@@ -1,3 +1,0 @@
-class abdellah {
-  String? Ahmed;
-}

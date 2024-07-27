@@ -1,6 +1,8 @@
-import 'Inheritance/Inheritance.dart';
 
 void main() {
+
+  print('this is main of class');
+  // main for class
   /*
   // create object from class Human and it name is Abdellah
   Human Abdellah = Human(height: 150.0, weight: 225);
@@ -13,5 +15,7 @@ void main() {
   Human Abdo = Human(height: 181.0, weight: 250);
 
   print(Abdo.height);
+
+
 */
 }
